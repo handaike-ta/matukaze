@@ -566,6 +566,9 @@ table{
 th{
   padding-right: 50px;
 }
+table a:hover{
+  border-bottom: solid 1px white;
+}
 .footer-right a{
   color:white;
   font-size: 14px;
